@@ -3,11 +3,17 @@ A little tool to scrap twitter
 
 # Prerequisites / Installation
 
+snscrape, pandas and tkcalendar need to be installed :
+
 pip install snscrape
 
 pip install pandas
 
 pip install tkcalendar
+
+run the gui :
+
+python twitter_scrap_gui.py
 
 # Fonctionnalities
 

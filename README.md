@@ -15,7 +15,7 @@ run the gui :
 
 python twitter_scrap_gui.py
 
-# Fonctionnalities
+# Functionalities
 
 - Enter the handle you want to scrap tweets from
 - Enter tweets limits (default 5000)

@@ -3,7 +3,10 @@ A little tool to scrap twitter
 
 # Prerequisites / Installation
 
-snscrape, pandas and tkcalendar need to be installed :
+For more convenience an executable is provided.
+
+If you want to run the source code yourself, make sure you have python and pip intalled.
+Then the packages snscrape, pandas and tkcalendar need to be installed :
 
 pip install snscrape
 

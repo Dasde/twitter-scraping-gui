@@ -8,15 +8,15 @@ For more convenience an executable fo Windows is provided : [twitterScrap.exe](h
 If you want to run the source code yourself, make sure you have python and pip intalled.
 Then the packages snscrape, pandas and tkcalendar need to be installed :
 
-pip install snscrape
+`pip install snscrape`
 
-pip install pandas
+`pip install pandas`
 
-pip install tkcalendar
+`pip install tkcalendar`
 
 run the gui :
 
-python twitter_scrap_gui.py
+`python twitter_scrap_gui.py`
 
 # Functionalities
 

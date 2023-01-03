@@ -17,7 +17,7 @@ python twitter_scrap_gui.py
 
 # Functionalities
 
-- Enter the handle you want to scrap tweets from
+- Enter the term and/or handle you want to scrap tweets from
 - Enter tweets limits (default 5000)
 - Select from and until date
 - Export a csv file and open it automaticaly

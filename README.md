@@ -3,7 +3,7 @@ A little tool to scrap twitter
 
 # Prerequisites / Installation
 
-For more convenience an executable is provided.
+For more convenience an executable fo Windows is provided : twitterScrap.exe [executable](https://github.com/Dasde/twitter-scraping-gui/releases/download/1.0/twitterScrap.exe)
 
 If you want to run the source code yourself, make sure you have python and pip intalled.
 Then the packages snscrape, pandas and tkcalendar need to be installed :
